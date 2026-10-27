@@ -1,0 +1,6 @@
+{
+  "name": "pixel-buddy",
+  "description": "Pixel-Buddy: ein Desktop-Figürchen, das Claudes Berechtigungsfragen per Klick beantworten lässt.",
+  "owner": { "name": "ValeWFun" },
+  "plugins": [{ "name": "pixel-buddy", "source": "./" }]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pixel-buddy",
+  "version": "0.1.0",
+  "description": "Ein kleines Desktop-Figürchen (Windows), das Claudes Berechtigungsfragen als Sprechblasen zeigt – per Klick erlauben oder ablehnen.",
+  "author": { "name": "ValeWFun", "url": "https://github.com/ValeWFun" },
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png"
+}
